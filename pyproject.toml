@@ -5,6 +5,9 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "Aizan-Updater"
 version = "0.1.0"
+long_description = """
+Updater of the Aizan project.
+"""
 
 [tool.poetry.dependencies]
 python = "^3.6"
