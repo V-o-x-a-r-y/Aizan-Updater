@@ -1,0 +1,10 @@
+concurrent.futures
+json
+os
+requests
+subprocess
+sys
+tkinter
+tkinter.ttk
+tqdm.tqdm
+zipfile
