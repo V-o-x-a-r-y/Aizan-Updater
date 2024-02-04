@@ -2,11 +2,8 @@
 requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
-[tool.build-system]
-requires = ["setuptools", "wheel"]
-
 [project]
-name = "nom-du-projet"
+name = "Aizan-Updater"
 version = "0.1.0"
 
 [tool.poetry.dependencies]
@@ -21,7 +18,3 @@ subprocess = "*"
 concurrent.futures = "*"
 tqdm = "*"
 # Ajoutez d'autres dépendances ici
-
-[build-system]
-requires = ["setuptools", "wheel"]
-build-backend = "setuptools.build_meta"
