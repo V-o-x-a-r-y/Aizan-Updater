@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.build-system]
+requires = ["setuptools", "wheel"]
+
+[project]
+name = "nom-du-projet"
+version = "0.1.0"
+
+[tool.poetry.dependencies]
+python = "^3.6"
+tkinter = "*"
+requests = "*"
+json = "*"
+os = "*"
+sys = "*"
+zipfile = "*"
+subprocess = "*"
+concurrent.futures = "*"
+tqdm = "*"
+# Ajoutez d'autres dépendances ici
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
