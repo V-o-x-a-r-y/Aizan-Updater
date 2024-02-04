@@ -10,6 +10,9 @@ long_description = """
 Updater of the Aizan project.
 """
 
+# Ajoutez cette ligne pour spécifier le type de contenu
+long_description_content_type = "text/markdown"
+
 [tool.poetry.dependencies]
 python = "^3.6"
 tkinter = "*"
