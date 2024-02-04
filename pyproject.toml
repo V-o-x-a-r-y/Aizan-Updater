@@ -2,9 +2,10 @@
 requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
-[project]
+[tool.poetry]
 name = "Aizan-Updater"
 version = "0.1.0"
+description = "Updater of the Aizan project."
 long_description = """
 Updater of the Aizan project.
 """
